@@ -1,7 +1,7 @@
 # SALARY PREDICTION
 This is an Experience V/S Salary prediction model made using Streamlit and Deployed using HeroKu
 # D E M O 
- [ CLICK_HERE](https://dashboard.heroku.com/apps/experience-vs-salary)
+ [ CLICK_HERE](https://experience-vs-salary.herokuapp.com/)
 
 ## Steps
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
